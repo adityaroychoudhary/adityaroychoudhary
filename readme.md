@@ -6,14 +6,11 @@ Web Developer. Software Engineer. Student
 
 ## Works
 
-### Personal
+### Projects
 
 - [Synapse](https://synapse-personalblog.vercel.app/) / A blog page that I run. I write about my thoughts, things that fascinate me, or anything else I have in mind.
 - [Eclipse-Hypr](https://github.com/arcechq/eclipse-hypr) / Dotfiles for my arch linux + hyprland setup.
 - [GhostfreakV2](https://ghostfreakv2.vercel.app/) / Personal website (being replaced)
 - [arxe.gallery](https://arxe-gallery.vercel.app/) / Filter-able gallery through categories.
-
-### Projects
-
 - [Cinemaphile](https://cinemaphile-client.onrender.com/) / Letterboxd-like movie review page. Community discussions included.
 - [FluxDL](https://github.com/arcechq/fluxdl) / A self-hosted video downloader. Uses yt-dlp and FastAPI for the backend.
